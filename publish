@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+aws s3 cp index.html s3://fruit.reergymerej.com/ --profile jex --acl public-read
